@@ -174,6 +174,9 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
+<img width="837" height="433" alt="3 out" src="https://github.com/user-attachments/assets/2f8dcd2e-e716-48a5-852c-16d0763a091b" />
+
+
 ## 4. DIVISION
 
 #### Algorithm
